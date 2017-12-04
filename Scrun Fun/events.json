@@ -1,0 +1,49 @@
+[{
+"text" : "Team Technical Training",
+"fund" : -20,
+"velocity" : 10, 
+"motivation" : 5,
+"team satisfaction" : 0,
+"customer satisfaction" : 0
+},
+{
+"text" : "Introduce DevOps",
+"fund" : -50,
+"velocity" : 20,
+"motivation" : 0,
+"team satisfaction" : 0,
+"customer satisfaction" : -15
+},
+{
+"text" : "Teambuilding",
+"fund" : 0,
+"velocity" : 0,
+"motivation" : 5,
+"team satisfaction" : 0,
+"customer satisfaction" : 0
+},
+{
+"text" : "Diversity & Inclusion Training",
+"fund" : 5,
+"velocity" : 5,
+"motivation" : 5,
+"team satisfaction" : 0,
+"customer satisfaction" : 0
+},
+{
+"text" : "Stretch Goals",
+"fund" : 0,
+"velocity" : 0,
+"motivation" : -10,
+"team satisfaction" : 0,
+"customer satisfaction" : 10
+},
+{
+"text" : "Team Soft Skills Training",
+"fund" : -10,
+"velocity" : 5,
+"motivation" : 5,
+"team satisfaction" : 0,
+"customer satisfaction" : 0
+}
+]

@@ -1,0 +1,6 @@
+framework module Pods_Scrun_Fun {
+  umbrella header "Pods-Scrun Fun-umbrella.h"
+
+  export *
+  module * { export * }
+}
